@@ -1,8 +1,8 @@
 # main links
 main:
+  - title: "블로그 방문하기"
+    url: https://withiue.github.io/
   - title: "About"
-    url: https://withiue.github.io/about/
-  - title: "Sample Posts"
-    url: /year-archive/
+    url: /about/
   - title: "Sample Collections"
     url: /collection-archive/
